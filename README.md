@@ -23,7 +23,9 @@ For :
     Heroku cloud: https://immense-meadow-97839.herokuapp.com/
 <img width="1426" height="747" alt="image" src="https://github.com/user-attachments/assets/dc27854e-1357-4a05-aa77-16b6d78313d8" />
 
-  
+<img width="1461" height="779" alt="image" src="https://github.com/user-attachments/assets/0aafe8c8-6622-4905-a511-4f0ea4379011" />
+
+<img width="1503" height="792" alt="image" src="https://github.com/user-attachments/assets/54251f50-8d4f-4dd4-904a-8e7fdb20ec9e" />
 
 
 
